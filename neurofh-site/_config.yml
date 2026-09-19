@@ -28,7 +28,7 @@ twitter_username: (in progress)
 github_username:  neurofh
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: theme: hitchens-theme
 plugins:
   - jekyll-feed
 
