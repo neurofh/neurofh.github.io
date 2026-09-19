@@ -28,9 +28,10 @@ twitter_username: (in progress)
 github_username:  neurofh
 
 # Build settings
-theme: theme: hitchens-theme
+remote_theme: patdryburgh/hitchens
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+ignore_theme_config: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
